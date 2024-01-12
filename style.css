@@ -37,3 +37,6 @@ footer {
     bottom: 0;
     width: 100%;
 }
+.project:hover {
+    background-color: #f0f0f0;
+}
